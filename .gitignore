@@ -265,3 +265,31 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static and dynamic libraries
+*.a
+*.so
+*.dll
+*.lib
+
+# Debug files
+*.pdb
+
+# VSCode settings
+.vscode/
+
+# Temporary or log files
+*.log
+*.tmp
+
+# macOS / Linux 系統雜項
+.DS_Store
+Thumbs.db
